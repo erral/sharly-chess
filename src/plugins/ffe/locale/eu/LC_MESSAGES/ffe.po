@@ -1,0 +1,557 @@
+msgid "\"Niçois\" accelerated system"
+msgstr ""
+
+#, python-format
+msgid "%(licence_number)s (expired)"
+msgstr ""
+
+#, python-format
+msgid "%(string)s:"
+msgstr ""
+
+msgid "A - Competition *** FFE licence"
+msgstr ""
+
+msgid "A non-empty string is expected"
+msgstr ""
+
+msgid "A positive integer is expected."
+msgstr ""
+
+msgid "All the players with no FFE licence A"
+msgstr ""
+
+msgid "All the players with no FFE licence A or B"
+msgstr ""
+
+msgid "An unexpected error occurred, consult the logs for more details."
+msgstr ""
+
+msgid "Arbiter:"
+msgstr ""
+
+msgid "Arbitration compensation"
+msgstr ""
+
+msgid "At least one league is expected."
+msgstr ""
+
+msgid "Auto-upload disabled"
+msgstr ""
+
+msgid "Auto-upload enabled"
+msgstr ""
+
+msgid "B - Leisure *** FFE licence"
+msgstr ""
+
+msgid "Black pairings are supposed to have an opponent"
+msgstr ""
+
+msgid "Buchholz"
+msgstr ""
+
+msgid "Buchholz cut"
+msgstr ""
+
+msgid "By default, tournaments are not visible on the FFE site."
+msgstr ""
+
+msgid "Cheating complaint"
+msgstr ""
+
+msgid "Chief arbiter (if different):"
+msgstr ""
+
+msgid "Choose at least one league."
+msgstr ""
+
+msgid "Choose at least one licence type."
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Club Arbiter"
+msgstr ""
+
+msgid "Connection French Chess Federation"
+msgstr ""
+
+msgid "Consult the logs for more details."
+msgstr ""
+
+msgid "Cut *** TIE BREAK VARIATION"
+msgstr ""
+
+msgid "DD/MM/YYYY"
+msgstr ""
+
+msgid "Download fees"
+msgstr ""
+
+msgid "Download the fees that the organizer should pay to the FFE."
+msgstr ""
+
+#, python-format
+msgid "E.g.: %(num)d"
+msgstr ""
+
+#, python-format
+msgid "E.g.: %(string)s"
+msgstr ""
+
+msgid "Edit the properties of the tournament."
+msgstr ""
+
+msgid "Elite Arbiter (level 1)"
+msgstr ""
+
+msgid "Elite Arbiter (level 2)"
+msgstr ""
+
+msgid "Exclude: {values}"
+msgstr ""
+
+msgid "Expired FFE licence"
+msgstr ""
+
+msgid "Export the tournament to the PAPI format."
+msgstr ""
+
+msgid "FFE"
+msgstr ""
+
+msgid "FFE Form:"
+msgstr ""
+
+msgid "FFE Licence"
+msgstr ""
+
+msgid "FFE Licence no. *** LICENCE NUMBER"
+msgstr ""
+
+msgid "FFE arbiter title"
+msgstr ""
+
+msgid "FFE certification number and password not defined."
+msgstr ""
+
+msgid "FFE certification number not defined."
+msgstr ""
+
+msgid "FFE certification number:"
+msgstr ""
+
+#, python-format
+msgid "FFE certification number: %(ffe_id)d"
+msgstr ""
+
+msgid "FFE database (local)"
+msgstr ""
+
+msgid "FFE database (online)"
+msgstr ""
+
+msgid "FFE forms"
+msgstr ""
+
+msgid "FFE licence"
+msgstr ""
+
+msgid "FFE licence A (competition)"
+msgstr ""
+
+msgid "FFE licence B (leisure)"
+msgstr ""
+
+msgid "FFE licence [{ffe_licence_number}] already present in tournament [{tournament}]."
+msgstr ""
+
+msgid "FFE password not defined."
+msgstr ""
+
+msgid "FFE password:"
+msgstr ""
+
+msgid "FFE site"
+msgstr ""
+
+msgid "FFE upload"
+msgstr ""
+
+msgid "FFE website could not be reached"
+msgstr ""
+
+msgid "FFE website could not be reached."
+msgstr ""
+
+msgid "FIDE ID"
+msgstr ""
+
+msgid "Failure"
+msgstr ""
+
+msgid "Fees link not found, check that a tournament has already been sent and that the tournament has not been archived on the FFE website."
+msgstr ""
+
+msgid "For a tournament with {rounds} rounds, the least and the most significant values are removed."
+msgid_plural "For a tournament with {rounds} rounds, the {count} least and the {count} most significant values are removed."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "For a tournament with {rounds} rounds, the least significant value is removed."
+msgid_plural "For a tournament with {rounds} rounds, the {count} least significant values are removed."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "For unrated players, a representative rating is calculated."
+msgstr ""
+
+msgid "French Chess Federation"
+msgstr ""
+
+msgid "French Federation specific features (player search, results uploading, leagues, Papi import/export...)"
+msgstr ""
+
+msgid "Fédération Française des Échecs"
+msgstr ""
+
+msgid "However, the order of the results of the last round will remain the same as the ones in Sharly Chess."
+msgstr ""
+
+msgid "Import JSON file (papi-converter format)"
+msgstr ""
+
+msgid "Import Papi file"
+msgstr ""
+
+msgid "Incompatible"
+msgstr ""
+
+msgid "Invalid FFE certification number or password."
+msgstr ""
+
+msgid "Invalid FFE licence number [{ffe_licence_number}]."
+msgstr ""
+
+msgid "Invalid date format [{date}] (expected: {format})."
+msgstr ""
+
+msgid "Invalid file extension [{extension}] (expected: {expected})."
+msgstr ""
+
+msgid "Invalid format (expected: {format})."
+msgstr ""
+
+msgid "JSON file (papi-converter format)"
+msgstr ""
+
+msgid "Last upload"
+msgstr ""
+
+msgid "Last upload attempt failed on {last_attempt_date} at {last_attempt_time} (details: {details})."
+msgstr ""
+
+msgid "League"
+msgstr ""
+
+msgid "League *** LEAGUE COLUMN HEADER"
+msgstr ""
+
+msgid "League not specified"
+msgstr ""
+
+msgid "League:"
+msgstr ""
+
+msgid "Leagues"
+msgstr ""
+
+msgid "Lic. *** LICENCE COLUMN HEADER"
+msgstr ""
+
+msgid "Licence no. *** LICENCE NUMBER"
+msgstr ""
+
+msgid "Licence number"
+msgstr ""
+
+msgid "Licence types"
+msgstr ""
+
+msgid "Licence:"
+msgstr ""
+
+msgid "Make visible on FFE site"
+msgstr ""
+
+msgid "Median"
+msgstr ""
+
+msgid "Median Buchholz"
+msgstr ""
+
+msgid "Minimum FFE licence required (only applies to players of the FRA federation)."
+msgstr ""
+
+msgid "Modified"
+msgstr ""
+
+msgid "N - Expired *** FFE licence"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Never uploaded"
+msgstr ""
+
+msgid "No FFE ID defined for tournament [{tournament}]."
+msgstr ""
+
+msgid "No FFE Licence"
+msgstr ""
+
+msgid "No changes detected since the last upload."
+msgstr ""
+
+msgid "No internet connection"
+msgstr ""
+
+msgid "No tournament configured for FFE upload."
+msgstr ""
+
+msgid "None *** FFE licence"
+msgstr ""
+
+msgid "Not configured"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "Ongoing"
+msgstr ""
+
+msgid "Open Arbiter (level 1)"
+msgstr ""
+
+msgid "Open Arbiter (level 2)"
+msgstr ""
+
+msgid "PAPI"
+msgstr ""
+
+msgid "Page of the tournament on the FFE website."
+msgstr ""
+
+msgid "Papi file"
+msgstr ""
+
+msgid "Pending"
+msgstr ""
+
+msgid "Players:"
+msgstr ""
+
+msgid "Replace the player to update this field."
+msgstr ""
+
+msgid "Rules successfully uploaded."
+msgstr ""
+
+msgid "Rules upload failed for tournament [{tournaments}]."
+msgid_plural "Rules upload failed for tournaments [{tournaments}]."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Rules upload link not found, check that the tournament is not marked as finished on the FFE website."
+msgstr ""
+
+msgid "Scan to access the tournament on the FFE site."
+msgstr ""
+
+msgid "Select the arbiter"
+msgstr ""
+
+msgid "Select the chief arbiter"
+msgstr ""
+
+msgid "Select the trainee"
+msgstr ""
+
+msgid "Select the writer"
+msgstr ""
+
+msgid "Some of the tie-break values will not appear in the results on the FFE website."
+msgstr ""
+
+msgid "Some table numbers might differ between Sharly Chess and the FFE website. To communicate pairings to players, it is recommended to use another platform, like Sharly-Chess.com or Chess-Results.com. Click for more details."
+msgstr ""
+
+msgid "Standard"
+msgstr ""
+
+msgid "Statuses"
+msgstr ""
+
+msgid "T1 Cover page"
+msgstr ""
+
+msgid "T2 Minutes"
+msgstr ""
+
+msgid "T3 Licence A certificate"
+msgstr ""
+
+msgid "T4 Licence B certificate"
+msgstr ""
+
+msgid "T5 Unjustified forfeit investigation"
+msgstr ""
+
+msgid "T6 Player exclusion"
+msgstr ""
+
+msgid "T7 Player reporting"
+msgstr ""
+
+msgid "The Baku acceleration system is not recognized by the FFE, there may be differences in the display of pairings on the FFE website."
+msgstr ""
+
+msgid "The FFE ID is a positive integer."
+msgstr ""
+
+msgid "The FFE always uses the FIDE rating when available."
+msgstr ""
+
+msgid "The PAPI format does not support {rounds} rounds (maximum: {max})."
+msgstr ""
+
+msgid "The Papi format does not support result [{result}]."
+msgstr ""
+
+msgid "The [{tie_break}] tie-break as implemented in Papi."
+msgstr ""
+
+msgid "The password of the tournament on the FFE website is made of 10 uppercase letters."
+msgstr ""
+
+msgid "The player's points and the board numbers may differ on the FFE website because Sharly Chess uses pairing numbers for the acceleration groups (the FFE website uses rating thresholds)."
+msgstr ""
+
+msgid "Tournament"
+msgstr ""
+
+msgid "Tournament exempt from registration fees."
+msgstr ""
+
+msgid "Tournament has been modified since the last upload."
+msgstr ""
+
+msgid "Tournament is currently being uploaded."
+msgstr ""
+
+msgid "Tournament is now visible on the FFE website."
+msgstr ""
+
+msgid "Tournament on the FFE site"
+msgstr ""
+
+msgid "Tournament successfully uploaded."
+msgstr ""
+
+msgid "Tournament upload failed, consult the FFE modal for more details."
+msgstr ""
+
+msgid "Tournament upload has been planned."
+msgstr ""
+
+msgid "Tournament visibility could not be set, consult the FFE modal for more details."
+msgstr ""
+
+msgid "Tournament visibility could not be set."
+msgstr ""
+
+msgid "Trainee Arbiter"
+msgstr ""
+
+msgid "Trainee:"
+msgstr ""
+
+msgid "Unknown league."
+msgstr ""
+
+msgid "Unknown player ID [{player_id}]"
+msgstr ""
+
+msgid "Unknown value (expected: {expected})."
+msgstr ""
+
+msgid "Unknown value [{value}]"
+msgstr ""
+
+msgid "Unrated *** SINGULAR"
+msgstr ""
+
+msgid "Up to date"
+msgstr ""
+
+msgid "Upload"
+msgstr ""
+
+msgid "Upload all tournaments"
+msgstr ""
+
+#, python-format
+msgid "Upload automatically every %(delay)d minutes."
+msgstr ""
+
+msgid "Upload rules"
+msgstr ""
+
+msgid "Upload to the FFE site"
+msgstr ""
+
+msgid "Variation"
+msgstr ""
+
+msgid "Warning"
+msgstr ""
+
+msgid "Writer:"
+msgstr ""
+
+msgid "You are not allowed to download fees."
+msgstr ""
+
+msgid "You are not allowed to publish results."
+msgstr ""
+
+msgid "You are not allowed to publish rules."
+msgstr ""
+
+msgid "Young Arbiter"
+msgstr ""
+
+msgid "authentication failed, check the password and certification number"
+msgstr ""
+
+msgid "consult the logs"
+msgstr ""
+
+msgid "no internet connection"
+msgstr ""
+
+msgid "tournament could not be converted to the Papi format"
+msgstr ""
+
+msgid "tournament most likely marked as finished on the FFE website"
+msgstr ""
+
+msgid "{count} league represented"
+msgid_plural "{count} leagues represented"
+msgstr[0] ""
+msgstr[1] ""
+
